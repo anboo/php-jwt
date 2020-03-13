@@ -1,5 +1,5 @@
 <?php
-namespace Firebase\JWT;
+namespace Anboo\Firebase\JWT;
 
 use ArrayObject;
 use PHPUnit_Framework_TestCase;
